@@ -1,0 +1,140 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4788bd;
+    color: #fff;
+    padding: 20px;
+}
+.logo {
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 2px 1px 3px black;
+}
+header div {
+    display: flex;
+
+   align-items: center;
+ margin: 10px;
+margin-left:70px ;
+
+}
+.senac {
+margin-left: 90px;
+display: inline;
+
+
+}
+.text{
+    text-shadow: 2px 7px 9px black;
+    margin: 15px;
+}
+
+header h2 {
+    font-size: 39px;
+    margin: 0;
+    
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+    font-size: larger;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    list-style: none; 
+    color: #ffffff;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+    
+    
+ 
+
+}
+nav ul li a:hover{
+    color: rgb(214, 210, 210);
+    transition: 0.5 ;
+}
+
+section,b{
+    padding:20px;
+    margin: auto;
+    
+
+}
+.texto{
+  font-size:30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+    padding: 100px;
+    padding-left: 70;
+  
+
+}
+.foto{
+  
+  margin-left: 20px;
+  border-radius: 20px;
+  margin-left: 50px;
+}
+.foto2{
+    
+    border-radius: 5px;
+   background-size: cover;
+   
+
+   
+}
+.foto3{
+display: flex;
+
+
+}
+.foto4{
+    height: 300px;
+    margin-top: 65px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px black;
+    margin-right: 2px;
+}
+.foto5{
+ width: 90%;
+}
+.texto9{
+    
+  text-align: center;
+}
+
+ .texto12{
+  text-align: center;
+  font-size: 50px;
+  display: flex;
+ }
+#contato p{
+   text-align: center;
+   font-size: 20px;
+ 
+}
+
+
+footer {
+    background-color: #5194ca;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
