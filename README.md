@@ -1,2 +1,1 @@
-# projeto-dupla
-ojetivo 16 
+https://dois-e.github.io/ok-progeto16/
